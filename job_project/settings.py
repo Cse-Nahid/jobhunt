@@ -49,7 +49,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 # LOGIN_URL = "http://127.0.0.1:5501/login.html" 
 # CSRF settings
 CSRF_TRUSTED_ORIGINS = [
-    'https://job-backend-d276.onrender.com',
+    'https://jobhunt-z4ts.onrender.com'
     'http://127.0.0.1:8000',
     'http://localhost:8000',
     'http://127.0.0.1:5501',
